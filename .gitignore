@@ -1,0 +1,8 @@
+function.zip
+*.pyc
+__pycache__/
+venv/
+.env
+*.log
+# JMeter result files si no quieres subir todos
+# results_*.csv
